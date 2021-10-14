@@ -35,6 +35,15 @@ Gabriel Cavalcante Causin
 ## *Usage*
 Go to 'code' and copy the link of this repo, open the git bash, type "git clone" and add the link that you coppied. One folder with the same name of this repo should be on that folder. After that, just open the files on VSC (visual studio code), open the terminal, do 'npm i' and use the program typing node index.js. Just follow the questions and your project will be done.
 
+Video Explaning How To Use: https://www.youtube.com/watch?v=54zpBTX3gRQ
+
+1) ![image](https://user-images.githubusercontent.com/89816900/137398185-690ae1fd-51d4-4337-9b68-da94b06a39c4.png)
+
+2) ![image](https://user-images.githubusercontent.com/89816900/137398208-170009a7-2a91-4150-b0ca-9de89b3c804e.png)
+
+3) Answer the questions: 
+![image](https://user-images.githubusercontent.com/89816900/137398249-c8ba2eaa-e5cc-4bb1-8ac8-8d284b44fed3.png)
+
 
 ## *Questions*
 For Any Questions About The Project, Please Contact Me In:
