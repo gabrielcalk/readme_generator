@@ -1,0 +1,23 @@
+{
+  "name": "dist",
+  "version": "1.0.0",
+  "description": "this is an folder with the files that will make the front-end of the project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielcalk/readme_generator.git"
+  },
+  "author": "Gabriel Cavalcante Causin",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/gabrielcalk/readme_generator/issues"
+  },
+  "homepage": "https://github.com/gabrielcalk/readme_generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
