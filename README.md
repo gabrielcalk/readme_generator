@@ -37,9 +37,9 @@ Go to 'code' and copy the link of this repo, open the git bash, type "git clone"
 
 Video Explaning How To Use: https://www.youtube.com/watch?v=54zpBTX3gRQ
 
-1) ![image](https://user-images.githubusercontent.com/89816900/137398185-690ae1fd-51d4-4337-9b68-da94b06a39c4.png)
+1) ![image](https://user-images.githubusercontent.com/89816900/137398329-04ac14a8-f585-4979-9782-cddc95be7e33.png)
 
-2) ![image](https://user-images.githubusercontent.com/89816900/137398208-170009a7-2a91-4150-b0ca-9de89b3c804e.png)
+2) ![image](https://user-images.githubusercontent.com/89816900/137398372-fd09ae8d-3fe1-4908-affb-02990e8adc6e.png)
 
 3) Answer the questions: 
 ![image](https://user-images.githubusercontent.com/89816900/137398249-c8ba2eaa-e5cc-4bb1-8ac8-8d284b44fed3.png)
