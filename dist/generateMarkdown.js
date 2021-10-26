@@ -1,4 +1,4 @@
-function generateMarkdown({proj_name, license, link, description, technology, author, usage, github, email}) {
+function generateMarkdown({proj_name, license, link, description, technology, author, usage, github, email, video}) {
     return`# Name: ${proj_name}
 
 ${license} cover this project.
@@ -35,6 +35,8 @@ ${author}
 
 ## *Usage*
 ${usage}
+
+${video}
 
 
 ## *Questions*
