@@ -40,7 +40,7 @@ inquirer.prompt([
             message: 'Say the names of the people who were involved in the project: ',
             name: 'author',
         },
-
+        
         {
             type: 'input',
             message: 'Describe how a user can use your application: ',
