@@ -2,7 +2,7 @@
 
 mit cover this project.
 
-<img src='https://img.shields.io/badge/badge-yellow-mit'>
+<img src='https://img.shields.io/badge/${license}-badge-yellow'>
     
 
 # link: made with node.js (no link)
